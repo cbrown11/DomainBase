@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DomainRespositoryInMemEventStore.Tests", "DomainRepository.Tests\DomainRespositoryInMemEventStore.Tests.csproj", "{3CD9D15C-56BA-49CC-96F3-72C1867E968C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DomainBase", "DomainBase\DomainBase.csproj", "{3CDA1B58-409A-411C-84E5-5F3E4CC5F0D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CD9D15C-56BA-49CC-96F3-72C1867E968C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CD9D15C-56BA-49CC-96F3-72C1867E968C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CD9D15C-56BA-49CC-96F3-72C1867E968C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CD9D15C-56BA-49CC-96F3-72C1867E968C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CDA1B58-409A-411C-84E5-5F3E4CC5F0D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CDA1B58-409A-411C-84E5-5F3E4CC5F0D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CDA1B58-409A-411C-84E5-5F3E4CC5F0D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CDA1B58-409A-411C-84E5-5F3E4CC5F0D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C38386C1-0D61-46B8-9128-19641DBE9100}
+	EndGlobalSection
+EndGlobal

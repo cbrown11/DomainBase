@@ -1,0 +1,15 @@
+C:\_example\DomainBase\DomainRepository.Tests\bin\Debug\netcoreapp2.2\Machine.TestAdapter.dll
+C:\_example\DomainBase\DomainRepository.Tests\bin\Debug\netcoreapp2.2\DomainRespositoryInMemEventStore.Tests.deps.json
+C:\_example\DomainBase\DomainRepository.Tests\bin\Debug\netcoreapp2.2\DomainRespositoryInMemEventStore.Tests.runtimeconfig.json
+C:\_example\DomainBase\DomainRepository.Tests\bin\Debug\netcoreapp2.2\DomainRespositoryInMemEventStore.Tests.runtimeconfig.dev.json
+C:\_example\DomainBase\DomainRepository.Tests\bin\Debug\netcoreapp2.2\DomainRespositoryInMemEventStore.Tests.dll
+C:\_example\DomainBase\DomainRepository.Tests\bin\Debug\netcoreapp2.2\DomainRespositoryInMemEventStore.Tests.pdb
+C:\_example\DomainBase\DomainRepository.Tests\bin\Debug\netcoreapp2.2\DomainBase.dll
+C:\_example\DomainBase\DomainRepository.Tests\bin\Debug\netcoreapp2.2\DomainBase.pdb
+C:\_example\DomainBase\DomainRepository.Tests\obj\Debug\netcoreapp2.2\DomainRespositoryInMemEventStore.Tests.csprojAssemblyReference.cache
+C:\_example\DomainBase\DomainRepository.Tests\obj\Debug\netcoreapp2.2\DomainRespositoryInMemEventStore.Tests.csproj.CoreCompileInputs.cache
+C:\_example\DomainBase\DomainRepository.Tests\obj\Debug\netcoreapp2.2\DomainRespositoryInMemEventStore.Tests.AssemblyInfoInputs.cache
+C:\_example\DomainBase\DomainRepository.Tests\obj\Debug\netcoreapp2.2\DomainRespositoryInMemEventStore.Tests.AssemblyInfo.cs
+C:\_example\DomainBase\DomainRepository.Tests\obj\Debug\netcoreapp2.2\DomainRespositoryInMemEventStore.Tests.csproj.CopyComplete
+C:\_example\DomainBase\DomainRepository.Tests\obj\Debug\netcoreapp2.2\DomainRespositoryInMemEventStore.Tests.dll
+C:\_example\DomainBase\DomainRepository.Tests\obj\Debug\netcoreapp2.2\DomainRespositoryInMemEventStore.Tests.pdb

@@ -1,0 +1,9 @@
+C:\_example\DomainBase\DomainBase\bin\release\netcoreapp2.2\DomainBase.deps.json
+C:\_example\DomainBase\DomainBase\bin\release\netcoreapp2.2\DomainBase.dll
+C:\_example\DomainBase\DomainBase\bin\release\netcoreapp2.2\DomainBase.pdb
+C:\_example\DomainBase\DomainBase\obj\release\netcoreapp2.2\DomainBase.csprojAssemblyReference.cache
+C:\_example\DomainBase\DomainBase\obj\release\netcoreapp2.2\DomainBase.csproj.CoreCompileInputs.cache
+C:\_example\DomainBase\DomainBase\obj\release\netcoreapp2.2\DomainBase.AssemblyInfoInputs.cache
+C:\_example\DomainBase\DomainBase\obj\release\netcoreapp2.2\DomainBase.AssemblyInfo.cs
+C:\_example\DomainBase\DomainBase\obj\release\netcoreapp2.2\DomainBase.dll
+C:\_example\DomainBase\DomainBase\obj\release\netcoreapp2.2\DomainBase.pdb
